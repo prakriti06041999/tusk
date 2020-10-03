@@ -5,3 +5,9 @@ C++
 JAVA
 PYTHON 
 
+Some others are:
+Pascal
+Javascript
+HTML
+R
+
