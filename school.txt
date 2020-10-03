@@ -5,3 +5,9 @@ maths
 physics
 chemistry
 
+Other important ones are:
+
+english
+social science
+computer technology
+
