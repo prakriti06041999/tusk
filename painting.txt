@@ -6,5 +6,8 @@ yellow
 orange 
 green
 
+blue
+purple
+
 
 thanks!!
