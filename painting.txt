@@ -6,6 +6,13 @@ yellow
 orange 
 green
 
+blue
+purple
+
 
 thanks!!
+
+done my changes..
+
 Final copy
+
