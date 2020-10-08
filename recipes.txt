@@ -8,6 +8,7 @@ dosa
 beans
 pizza
 Macroni
+French Fries
 
 
 thankyou :)
